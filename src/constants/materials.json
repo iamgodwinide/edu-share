@@ -1,0 +1,26 @@
+[
+    {
+        "title": "EDU 221",
+        "semester": "2",
+        "level": 200,
+        "dept": "cit",
+        "pdf": "EDU222.pdf",
+        "id": 1
+    },
+    {
+        "title": "EDU 222",
+        "semester": "2",
+        "level": 200,
+        "dept": "cit",
+        "pdf": "EDU222.pdf",
+        "id": 2
+    },
+    {
+        "title": "EDU 223",
+        "semester": "2",
+        "level": 200,
+        "dept": "cit",
+        "pdf": "EDU222.pdf",
+        "id": 3
+    }
+]
